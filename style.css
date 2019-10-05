@@ -67,7 +67,7 @@ h1.main-header{
 }
 
 @media (max-width: 576px){
-    .text-uppercase{
+    .logo-text{
         display: none;
     }
 }
