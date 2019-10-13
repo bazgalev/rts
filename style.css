@@ -73,3 +73,9 @@ h1.main-header{
         display: none;
     }
 }
+
+@media (max-width: 576px){
+    .main-header{
+        font-size: 2rem;
+    }
+}
